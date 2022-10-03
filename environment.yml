@@ -10,3 +10,5 @@ dependencies:
   - torchvision=0.13.1
   - numpy=1.23.1
   - matplotlib=3.5.2
+  - pip:
+    - music21==8.1.0
